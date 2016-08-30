@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vegetable: MyText
+  meat: MyText
+  dairy: MyText
+
+two:
+  vegetable: MyText
+  meat: MyText
+  dairy: MyText
